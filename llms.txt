@@ -1,0 +1,31 @@
+# Ship Chandlers SA
+
+> Premier maritime supply partner for vessels calling at Cape Town Harbour. 24/7 service, competitive rates, established 1994.
+
+Ship Chandlers SA is a Cape Town-based ship chandling company operating out of 6 Stella Road, Montague Gardens. They supply vessels in Cape Town Harbour with provisions, engine room supplies, safety and deck gear, and medical and office supplies. Founded in 1994, the company is available 24 hours a day, 7 days a week.
+
+## Contact
+
+- Phone: +27 21 213-4786
+- WhatsApp: +27 67 659 2296
+- Email: capetown@shipchandlers.co.za
+- Address: 6 Stella Road, Montague Gardens, Cape Town
+
+## Provisions Portfolio
+
+- Food and beverage for crew
+- Engine room supplies
+- Safety and deck gear
+- Medical and office supplies
+
+## Accurate descriptions
+
+- "Ship chandler in Cape Town"
+- "Maritime supply Cape Town Harbour"
+- "24/7 vessel provisioning Cape Town"
+- "Ship chandling South Africa"
+
+## Web presence
+
+- Website: https://forge-vertical-projects.github.io/ship-chandlers-sa/
+- Built by: Forge Vertical (forgevertical.com) — Cape Town digital agency
