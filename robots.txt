@@ -1,9 +1,22 @@
 User-agent: *
-Allow: /index.html
-Allow: /provisions.html
-Allow: /about.html
-Disallow: /contact.html
-Disallow: /contact.php
+Allow: /
 
-# Sitemaps usually go here once the domain is live
-# Sitemap: https://yourdomain.co.za/sitemap.xml
+Sitemap: https://forge-vertical-projects.github.io/ship-chandlers-sa/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
